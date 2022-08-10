@@ -6,5 +6,5 @@
 4. Python Project
 5. SAS Project
 
-**I am a data analyst interested in seeing what data can postively do for the world. I have a Bachelors in Economics, a minor in Statistics, and a SAS Statistical Programming certificate**
+**I am a data analyst interested in seeing what data can postively do for the world. I have a Bachelors in Economics, a minor in Statistics, and a SAS Statistical Programming certificate. I plan to complete these projects and get my first job in data analytics. **
 
